@@ -29,3 +29,54 @@ h6 {
     background-size: cover;
 	height:697.4px;
 }
+.intro-message{
+	position: relative;
+	padding-bottom:20%;
+	padding-top:20%;
+	
+}
+
+.intro-message> h1{
+	 margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+	
+}
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media (max-width:700px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+   
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+.content-section-a{
+    padding: 50px 0;
+}
+.section-heading-spacer {
+  width: 200px;
+    float: left;
+border-top: 3px solid #e7e7e7 ;
+}
+
+
+
+
+
