@@ -16,6 +16,10 @@ h6 {
 
 
 }
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
 .topnav{
 
     font-size: 14px;
@@ -33,14 +37,14 @@ h6 {
 	position: relative;
 	padding-bottom:20%;
 	padding-top:20%;
-	
+
 }
 
 .intro-message> h1{
 	 margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
-	
+
 }
 .intro-divider {
     width: 400px;
@@ -52,16 +56,18 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
-@media (max-width:700px) {
+@media (max-width:767px) {
     .intro-message {
         padding-bottom: 15%;
+
     }
 
     .intro-message > h1 {
         font-size: 3em;
+
     }
 
-   
+
 
     .intro-divider {
         width: 100%;
@@ -69,6 +75,7 @@ h6 {
 }
 .content-section-a{
     padding: 50px 0;
+    background-color:#f8f8f8;
 }
 .section-heading-spacer {
   width: 200px;
@@ -76,7 +83,28 @@ h6 {
 border-top: 3px solid #e7e7e7 ;
 }
 
+.content-section-b{
+    padding: 50px 0;
+}
+.content-section-c{
+    padding: 50px 0;
+    background-color:#f8f8f8;
+}
+.content-section-d{
+    padding: 100px 0;
+    background:url("img/banner-bg.jpg ") no-repeat center center;
+    background-size: cover;
+    color: #f8f8f8;
+}
+.content-section-d h2{
+    margin-left:20px;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+.banner-social-buttons {
 
+    margin-left:20px;
+}
 
 
 
