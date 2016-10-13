@@ -20,9 +20,22 @@ h6 {
     font-size: 18px;
     font-weight: 400;
 }
+.navbar-nav li a{
+    font-size: 15px;
+    color: #fff !important;
+}
+
+
+.navbar-nav li a:hover{
+    font-size: 15px;
+    color: #9d9d9d !important;
+}
+
 .topnav{
 
     font-size: 14px;
+    background-color: #666;
+
 }
 .intro-header {
     padding-top: 50px;
@@ -31,7 +44,7 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background-size: cover;
-	height:697.4px;
+
 }
 .intro-message{
 	position: relative;
@@ -105,10 +118,7 @@ border-top: 3px solid #e7e7e7 ;
 }
 
 
-.footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
-}
+
 @media(max-width: 1199px) {
 ul.banner-social-buttons{
     float: left;
@@ -132,3 +142,18 @@ ul.banner-social-buttons{
         margin-bottom: 0;
     }
 }
+
+.footer-bottom {
+    margin-top: 60px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    background: #3d3d3d;
+    text-align: center;
+}
+
+.footer-bottom a {
+    font-size: 32px;
+    color: #666;
+    line-height: 40px;
+}
+.footer-bottom a:hover, .footer-bottom a:focus { color: #888; }
