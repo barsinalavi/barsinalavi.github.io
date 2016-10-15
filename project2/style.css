@@ -28,7 +28,7 @@ h6 {
 
 .navbar-nav li a:hover{
     font-size: 15px;
-    color: #9d9d9d !important;
+    color: #fed136 !important;
 }
 
 .topnav{
@@ -157,3 +157,6 @@ ul.banner-social-buttons{
     line-height: 40px;
 }
 .footer-bottom a:hover, .footer-bottom a:focus { color: #888; }
+.text-primary {
+    color: #fed136;
+}
