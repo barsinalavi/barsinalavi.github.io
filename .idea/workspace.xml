@@ -40,8 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="297" column="25" selection-start-line="297" selection-start-column="25" selection-end-line="297" selection-end-column="25" />
+            <state relative-caret-position="17">
+              <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -50,8 +50,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="489" column="1" selection-start-line="489" selection-start-column="1" selection-end-line="489" selection-end-column="1" />
+            <state relative-caret-position="3315">
+              <caret line="195" column="17" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -70,8 +70,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/project2/style.css" />
         <option value="$PROJECT_DIR$/project2/index.html" />
+        <option value="$PROJECT_DIR$/project2/style.css" />
       </list>
     </option>
   </component>
@@ -87,7 +87,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1036" />
+    <option name="width" value="1028" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -206,7 +206,14 @@
       <workItem from="1476562500195" duration="1759000" />
       <workItem from="1476564424141" duration="1741000" />
       <workItem from="1476566373949" duration="1572000" />
-      <workItem from="1476568222815" duration="1090000" />
+      <workItem from="1476568222815" duration="1714000" />
+      <workItem from="1476797656892" duration="784000" />
+      <workItem from="1476801910296" duration="1698000" />
+      <workItem from="1476806459101" duration="1837000" />
+      <workItem from="1476808635080" duration="2077000" />
+      <workItem from="1476810907839" duration="1680000" />
+      <workItem from="1476813583123" duration="2101000" />
+      <workItem from="1476820142948" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="change index.html some  text.">
       <created>1474885721160</created>
@@ -320,14 +327,21 @@
       <option name="project" value="LOCAL" />
       <updated>1476209271188</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="change index.html some  text.">
+      <created>1476569359526</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1476569359526</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54774000" />
+    <option name="totallyTimeSpent" value="65622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1036" height="744" extended-state="0" />
+    <frame x="-8" y="0" width="1028" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2622449" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -375,7 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11356">
           <caret line="668" column="20" selection-start-line="668" selection-start-column="14" selection-end-line="668" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,7 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11033">
           <caret line="649" column="10" selection-start-line="469" selection-start-column="2" selection-end-line="649" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,22 +721,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11356">
           <caret line="668" column="20" selection-start-line="668" selection-start-column="14" selection-end-line="668" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="489" column="1" selection-start-line="489" selection-start-column="1" selection-end-line="489" selection-end-column="1" />
+        <state relative-caret-position="3315">
+          <caret line="195" column="17" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="297" column="25" selection-start-line="297" selection-start-column="25" selection-end-line="297" selection-end-column="25" />
+        <state relative-caret-position="17">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
           <folding />
         </state>
       </provider>
