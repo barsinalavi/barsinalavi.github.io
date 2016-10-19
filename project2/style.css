@@ -38,7 +38,7 @@ h6 {
 .topnav{
 
     font-size: 14px;
-    background-color: #4d5761;
+    background-color: rgb(43, 43, 43);
     border-bottom-width:0;
 
 }
@@ -152,7 +152,7 @@ ul.banner-social-buttons{
     margin-top: 60px;
     padding-top: 15px;
     padding-bottom: 25px;
-    background: #4d5761;
+    background: rgb(43, 43, 43);
     text-align: center;
 }
 
@@ -175,7 +175,8 @@ ul.banner-social-buttons{
 }
 .section-about{
     padding: 150px 0 ;
-    background-color: rgba(221, 221, 221, 0.35);
+    background-color: rgb(43, 43, 43);
+
 }
 .profile-pic{
     width: 150px;
@@ -185,28 +186,20 @@ ul.banner-social-buttons{
     display: block ;
     margin: auto;
 
-
-
-
 }
+
 .section-about p{
 
     direction: rtl;
     text-align: justify;
-    padding: 50px 30px;
     font-size: 20px;
     line-height: 40px;
-
+    color: white;
+}
+.text-muted{
+    direction: rtl;
+    font-size: 18px;
+}
+.text-primary{
 
 }
-.box
-{background-color: white;
-    border: #cfcfcf 1px solid;
-    margin-bottom:15px;
-margin-top: 15px;
-
-    box-shadow:0px 0px 20px 10px gainsboro;
-
-
-}
-
