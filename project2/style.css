@@ -186,6 +186,7 @@ ul.banner-social-buttons{
     display: block ;
     margin: auto;
 
+
 }
 
 .section-about p{
@@ -199,7 +200,16 @@ ul.banner-social-buttons{
 .text-muted{
     direction: rtl;
     font-size: 18px;
+    padding-bottom: 30px;
 }
-.text-primary{
-
+.divider-1{
+    display: inline-block;
+    width: 300px;
+    border-bottom: 3px solid #aaa;
+  margin: 25px 0;
+}
+.thumbnail{
+    border: 0 !important;
+    direction: rtl;
+    text-align: justify;
 }
