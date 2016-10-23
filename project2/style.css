@@ -68,6 +68,7 @@ h6 {
     width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
+
 }
 
 .intro-message > h3 {
@@ -175,7 +176,8 @@ ul.banner-social-buttons{
 }
 .section-about{
     padding: 150px 0 ;
-    background-color: rgb(43, 43, 43);
+    background-color: #eeeeee;
+
 
 }
 .profile-pic{
@@ -187,6 +189,7 @@ ul.banner-social-buttons{
     margin: auto;
 
 
+
 }
 
 .section-about p{
@@ -195,7 +198,7 @@ ul.banner-social-buttons{
     text-align: justify;
     font-size: 20px;
     line-height: 40px;
-    color: white;
+    color: #747474  ;
 }
 .text-muted{
     direction: rtl;
@@ -206,10 +209,42 @@ ul.banner-social-buttons{
     display: inline-block;
     width: 300px;
     border-bottom: 3px solid #aaa;
-  margin: 25px 0;
+  margin-bottom: 50px;
+
 }
 .thumbnail{
     border: 0 !important;
     direction: rtl;
     text-align: justify;
+}
+.btn-link1 {
+    font-size: 22px!important;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: white !important;
+    background-color:#fed136;
+    border-color: #fed136!important;
+
+
+}
+.btn1 :hover{
+    background-color: #fed136!important;
+    opacity: 0.6;
+
+
+}
+.btn1{text-align: center;}
+.more-services-box{
+    direction: rtl;
+    padding-bottom: 50px;
+
+
+}
+.articles-section{  padding: 150px 0 ;
+    background-color: #eeeeee;
+
+
+}
+.articles-section h4 {
+color: #747474;
 }
